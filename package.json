@@ -1,6 +1,6 @@
 {
 	"name": "@uq-elipse/ckeditor5-build-classic",
-	"version": "12.0.0",
+	"version": "12.2.1",
 	"description": "Forked version of the classic editor build of CKEditor 5 – the best browser-based rich text editor.",
 	"keywords": [
 		"ckeditor5-build",
@@ -66,7 +66,7 @@
 	},
 	"author": "CKSource (http://cksource.com/), eLIPSE; The University of Queensland",
 	"license": "GPL-2.0-or-later",
-	"homepage": "https://ckeditor.com/ckeditor-5",
+	"homepage": "https://github.com/UQ-eLIPSE/ckeditor5-build-classic#readme",
 	"bugs": "https://github.com/ckeditor/ckeditor5-build-classic/issues",
 	"repository": {
 		"type": "git",
