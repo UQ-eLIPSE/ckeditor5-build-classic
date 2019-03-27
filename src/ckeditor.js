@@ -17,7 +17,6 @@ import EasyImage from '@ckeditor/ckeditor5-easy-image/src/easyimage';
 import Heading from '@ckeditor/ckeditor5-heading/src/heading';
 import Link from '@ckeditor/ckeditor5-link/src/link';
 import List from '@ckeditor/ckeditor5-list/src/list';
-import MediaEmbed from '@ckeditor/ckeditor5-media-embed/src/mediaembed';
 import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph';
 import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefromoffice';
 import Table from '@ckeditor/ckeditor5-table/src/table';
@@ -40,7 +39,6 @@ ClassicEditor.builtinPlugins = [
 	Heading,
 	Link,
 	List,
-	MediaEmbed,
 	Paragraph,
 	PasteFromOffice,
 	Table,
@@ -62,7 +60,6 @@ ClassicEditor.defaultConfig = {
 			'numberedList',
 			'blockQuote',
 			'insertTable',
-			'mediaEmbed',
 			'undo',
 			'redo'
 		]
